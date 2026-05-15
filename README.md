@@ -38,7 +38,6 @@ My usual playground is **Node.js, Spring Boot, TypeScript, and AWS**, but I've b
 | | |
 |:---|:---|
 | 📍 &nbsp;**Location** | Tampa, FL |
-| 💼 &nbsp;**Company** | Databricks |
 | 📧 &nbsp;**Email** | lavanya159ch@gmail.com |
 | 🤝 &nbsp;**Status** | Open to collaborate |
 | 🧠 &nbsp;**Currently learning** | LLMs · System Design · DSA |
