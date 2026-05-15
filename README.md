@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=134e4a,0f766e,14b8a6&height=200&section=header&text=Lavanya%20Chilakalapudi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=58&descColor=ccfbf1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460,0f766e,0d9488&height=200&section=header&text=Lavanya%20Chilakalapudi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=58&descColor=ccfbf1" />
 </div>
 
 <div align="center">
@@ -100,9 +100,15 @@ My usual playground is **Node.js, Spring Boot, TypeScript, and AWS**, but I've b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavanya-usf&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=99f6e4&bg_color=0d1f1e&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavanya-usf&theme=github_dark" alt="Profile Details" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanya-usf&theme=github_dark" alt="Stats" height="160em"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya-usf&langs_count=8&title_color=14b8a6&text_color=ffffff&icon_color=99f6e4&bg_color=0d1f1e&hide_border=true&border_radius=10&layout=compact&custom_title=Top%20Languages" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavanya-usf&theme=github_dark" alt="Top Languages" height="160em"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavanya-usf&theme=github_dark" alt="Most Used Languages" height="160em"/>
 </div>
 
 <br/>
@@ -143,5 +149,5 @@ If you're building something interesting at the intersection of **good engineeri
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0f766e,134e4a&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d9488,0f766e,0f3460&height=120&section=footer" />
 </div>
